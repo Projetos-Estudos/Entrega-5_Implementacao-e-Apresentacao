@@ -1,0 +1,12 @@
+runner\ProjetoRun.class
+Junit\junitTests\UsuarioDAOTest.class
+Junit\junitTests\SessaoUsuarioTest.class
+test\projeto\ProjetoSteps.class
+runner\UsuarioRun.class
+test\sessaoUsuario\SessaoUsuarioSteps.class
+Junit\junitTests\ProjetoTest.class
+SuiteTest.class
+runner\SessaoUsuarioRun.class
+Junit\junitTests\ProjetoDAOTest.class
+Junit\junitTests\UsuarioTest.class
+test\usuario\UsuarioSteps.class
